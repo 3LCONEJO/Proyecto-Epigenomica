@@ -1,0 +1,9 @@
+Error
+	Invalid option	 
+/cm/local/apps/sge/var/spool/compute-00-05/job_scripts/1065945: line 14: -i: command not found
+Error
+	Invalid option	 
+/cm/local/apps/sge/var/spool/compute-00-05/job_scripts/1065949: line 14: -i: command not found
+Error
+	Invalid option	 
+/cm/local/apps/sge/var/spool/compute-00-04/job_scripts/1065967: line 14: -i: command not found
